@@ -10,5 +10,10 @@ body{
     align-items: center;
 
     height: 100dvh;
-    & main
+    & main{
+        & h5 { 
+            font-size: 18px;
+            
+        }
+    }
 }
