@@ -12,9 +12,14 @@ body{
     height: 100dvh;
     & main{
         & h5 { 
-            font-size: 18px;}
+            font-size: 18px;
+        }
             & h1{
                 font-size: 32px;
                 font-weight: 900;
                 color: aqua;
             }
+
+        }
+
+    }
