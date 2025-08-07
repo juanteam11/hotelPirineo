@@ -17,9 +17,18 @@ body{
             & h1{
                 font-size: 32px;
                 font-weight: 900;
-                color: aqua;
+                color: rgb(58, 59, 59);
             }
 
+        }
+        .resaltado{
+            color: rgb(77, 77, 77);
+            transition: color 0.3 sg ease ;
+            cursor: pointer;
+
+        }
+        .resaltado:hover{
+            color: rgb(255, 38, 0);
         }
 
     }
